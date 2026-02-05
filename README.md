@@ -1,5 +1,5 @@
 # Ex. No: 5 Inter-VLAN Routing Using Router-on-a-Stick
-# Date:
+# Date:5-02-2026
 ________________________________________
 # Objective
 To configure Inter-VLAN routing using a single router interface with subinterfaces (Router-on-a-Stick) so that hosts in different VLANs can communicate with each other.
@@ -91,6 +91,11 @@ ________________________________________
 •	PC IP settings<br>
 •	Successful ping between PCs in different VLANs after routing<br>
 •	Successful ping between PCs in the same VLAN<br>
+![WhatsApp Image 2026-02-05 at 8 56 41 AM](https://github.com/user-attachments/assets/3c655213-0fac-4ad8-b93d-637c26e46d9a)
+![WhatsApp Image 2026-02-05 at 8 57 06 AM](https://github.com/user-attachments/assets/1e46ee54-00a1-4e3b-8ef4-289323c5c8f2)
+![WhatsApp Image 2026-02-05 at 8 57 39 AM](https://github.com/user-attachments/assets/2cbceaff-a23d-4424-8089-137681b62e9b)
+
+
 ________________________________________
 # Result
 Inter-VLAN routing was successfully configured using the Router-on-a-Stick method. PCs in different VLANs could communicate through the router.
